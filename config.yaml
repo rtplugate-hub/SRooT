@@ -1,0 +1,72 @@
+settings:
+  subjects:
+    Bio:
+      name: Біологія і екологія
+      link: https://meet.google.com/sfc-tgbt-roc
+    Phys:
+      name: Фізика та астрономія
+      link: https://meet.google.com/vxn-vtwy-ndi
+    Hist:
+      name: "Історія: Україна і світ"
+      link: https://meet.google.com/cws-hhzu-nez
+    PE:
+      name: Фізична культура
+      link: https://meet.google.com/vwy-dswx-ehy
+    Chem:
+      name: Хімія
+      link: https://meet.google.com/cnj-owwi-eyc
+    Def:
+      name: Захист України
+      link: https://meet.google.com/bxs-wvbg-nxu
+    DefMP:
+      name: Захист України (МП)
+      link: https://meet.google.com/bxs-wvbg-nxu
+    UkrLang:
+      name: Українська мова
+      link: https://meet.google.com/mck-vpyc-wyk
+    Eng:
+      name: Іноземна мова
+      link: https://meet.google.com/mrv-vqjb-csy
+    ForLit:
+      name: Зарубіжна література
+      link: https://meet.google.com/hgv-offr-yvb
+    Info:
+      name: Інформатика
+      link: https://meet.google.com/nrh-dhdg-myo
+    Geo:
+      name: Географія
+      link: https://meet.google.com/xfi-zkba-mco
+    UkrLit:
+      name: Українська література
+      link: https://meet.google.com/sxu-otmd-nwt
+    Math:
+      name: Математика
+      link: https://meet.google.com/qki-umti-riq
+
+  schedule:
+    - # Week 1
+      1: [ Bio, Phys, Hist, PE ]       
+      2: [ Chem, Def, UkrLang, DefMP ] 
+      3: [ null, Eng, ForLit ]         
+      4: [ Bio, Info, Geo ]            
+      5: [ Info, UkrLit, Math ]        
+    - # Week 2
+      1: [ Chem, Phys, Hist, PE ]      
+      2: [ Chem, Def, UkrLang ]        
+      3: [ Hist, Eng, ForLit ]         
+      4: [ Bio, Info, Geo ]            
+      5: [ Info, UkrLit, Math ]        
+
+  time:
+    - "08:30 – 09:50"
+    - "10:00 – 11:20"
+    - "11:35 – 12:55"
+    - "13:10 – 14:30"
+    - "14:40 – 16:00"
+
+  admins:
+    - 6133407632
+
+  academic_context:
+    reference_date: "2026-01-12"
+    reference_week: 2
