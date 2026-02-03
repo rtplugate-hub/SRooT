@@ -57,6 +57,18 @@ settings:
       4: [ Bio, Info, Geo ]            
       5: [ Info, UkrLit, Math ]        
 
+  dates_of_exclusion:
+    "2026-02-28": [ Bio, Phys, Hist, PE ]            # Пн, 1 тиждень
+    "2026-03-07": [ Chem, Def, UkrLang, DefMP ]      # Вт, 1 тиждень
+    "2026-03-14": [ null, Eng, ForLit ]              # Ср, 1 тиждень
+    "2026-03-21": [ Bio, Info, Geo ]                 # Чт, 1 тиждень
+    "2026-03-28": [ Info, UkrLit, Math ]             # Пт, 1 тиждень
+    "2026-04-04": [ Chem, Phys, Hist, PE ]           # Пн, 2 тиждень
+    "2026-04-11": [ Chem, Def, UkrLang ]             # Вт, 2 тиждень
+    "2026-04-18": [ Hist, Eng, ForLit ]              # Ср, 2 тиждень
+    "2026-04-25": [ Bio, Info, Geo ]                 # Чт, 2 тиждень
+    "2026-05-02": [ Info, UkrLit, Math ]             # Пт, 2 тиждень
+
   time:
     - "08:30 – 09:50"
     - "10:00 – 11:20"
