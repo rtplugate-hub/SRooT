@@ -3,6 +3,7 @@ settings:
     Bio:
       name: Біологія і екологія
       link: https://meet.google.com/sfc-tgbt-roc
+      audience: 113
     Phys:
       name: Фізика та астрономія
       link: https://meet.google.com/vxn-vtwy-ndi
@@ -33,15 +34,19 @@ settings:
     Info:
       name: Інформатика
       link: https://meet.google.com/nrh-dhdg-myo
+      audience: 312
     Geo:
       name: Географія
       link: https://meet.google.com/xfi-zkba-mco
+      audience: 113
     UkrLit:
       name: Українська література
       link: https://meet.google.com/sxu-otmd-nwt
+      audience: 113
     Math:
       name: Математика
       link: https://meet.google.com/qki-umti-riq
+      audience: 113
 
   schedule:
     - # Week 1
