@@ -3,45 +3,59 @@ settings:
     Bio:
       name: Біологія і екологія
       link: https://meet.google.com/sfc-tgbt-roc
+      audience: 113
     Phys:
       name: Фізика та астрономія
       link: https://meet.google.com/vxn-vtwy-ndi
+      audience: 113
     Hist:
       name: "Історія: Україна і світ"
       link: https://meet.google.com/cws-hhzu-nez
+      audience: 113
     PE:
       name: Фізична культура
       link: https://meet.google.com/vwy-dswx-ehy
+      audience: 113
     Chem:
       name: Хімія
       link: https://meet.google.com/cnj-owwi-eyc
+      audience: 113
     Def:
       name: Захист України
       link: https://meet.google.com/bxs-wvbg-nxu
+      audience: 113
     DefMP:
       name: Захист України (МП)
       link: https://meet.google.com/urp-coho-cdp
+      audience: 113
     UkrLang:
       name: Українська мова
       link: https://meet.google.com/mck-vpyc-wyk
+      audience: 113
     Eng:
       name: Іноземна мова
       link: https://meet.google.com/mrv-vqjb-csy
+      audience: 113
     ForLit:
       name: Зарубіжна література
       link: https://meet.google.com/hgv-offr-yvb
+      audience: 113
     Info:
       name: Інформатика
       link: https://meet.google.com/nrh-dhdg-myo
+      audience: 312
     Geo:
       name: Географія
       link: https://meet.google.com/xfi-zkba-mco
+      audience: 113
     UkrLit:
       name: Українська література
       link: https://meet.google.com/sxu-otmd-nwt
+      audience: 113
     Math:
       name: Математика
       link: https://meet.google.com/qki-umti-riq
+      audience: 113
 
   schedule:
     - # Week 1
@@ -104,19 +118,8 @@ settings:
     reference_date: "2026-01-12"
     reference_week: 2
 
-  app_version: "1.5.0"
+  app_version: "1.6.0"
   whats_new_text: |
     Що нового <tg-emoji emoji-id='5294325496228620537'>❓</tg-emoji>
-    - Виправлено помилки форматування.  
-
-    - Додано функціонал сповіщення про повітряну тривогу (тільки під час пар).
-    
-    - Покращено візуальний вигляд (працює тільки в нових версіях Telegram).
-    
-    - Кнопка "Наступна пара" - показує, коли буде найближча пара для обраного предмета.
-    
-    - Кнопка "Субота" - показує розклад на найближчу суботу.
-    
-    - Команда /wn - показує інформацію про поточну версію та список змін.
-    
-    - Інші дрібні виправлення та покращення.
+    - Додано авдиторії.
+    - Додано текст у /start.
