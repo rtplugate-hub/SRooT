@@ -109,8 +109,8 @@ settings:
     reference_date: "2026-01-12"
     reference_week: 2
 
-  app_version: "1.5.1"
+  app_version: "1.6.0"
   whats_new_text: |
     Що нового <tg-emoji emoji-id='5294325496228620537'>❓</tg-emoji>
     - Додано авдиторії.
-    - Додано текст у /start.
+    - Виправлено швидкість реагування на повідомлення.
